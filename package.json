@@ -1,0 +1,32 @@
+{
+  "name": "check_mac-address_task",
+  "version": "1.0.0",
+  "description": "Javascript.info lesson \"Capturing Groups\" task \"Check MAC-address\" solution",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/check-mac-address-task.git"
+  },
+  "keywords": [
+    "javascript.info",
+    "javascript.info-task",
+    "task-solution",
+    "regexp",
+    "capturing-groups"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/check-mac-address-task/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/check-mac-address-task#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
